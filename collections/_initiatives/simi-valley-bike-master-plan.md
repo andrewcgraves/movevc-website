@@ -2,6 +2,7 @@
 title:  "Updates to the Simi Valley Bicycle Master Plan"
 layout: initiative
 date: "2024-03-03 00:00:01"
+last_updated: "2025-09-06 22:10:00"
 image: "/front-page/arroyo-simi.jpg"
 ---
 
@@ -10,7 +11,7 @@ In the next year, Simi Valley will be updating its [Bicycle Master Plan][1], whi
 A good example of this is [an article][2] we wrote detailing the importance of improving the active transportation infrastructure around portions of Simi Valley where residential and commercial activity is being focused.
 
 # Timeline
-> Current Status: [RFP Issued](https://www.simivalley.org/home/showpublisheddocument/27966/638460217556230000)
+> Current Status: [Draft Plan / Community Input](https://survey123.arcgis.com/share/?open=web&embed=fullScreen&id=c7d5e07c54684a649db3aefa728661b9)
 
 The City details the steps that will be followed to refresh its Bicycle Plan. They are as follows
 
@@ -22,26 +23,21 @@ The City details the steps that will be followed to refresh its Bicycle Plan. Th
     - Conducting outreach to people who use the existing facilities or would be a good fit for a new system.
     - Solicit recommendation for new and upgraded facilities.
     - Final plan preparation.
+4. **June 2025:** Draft plan shown to the public for review and feedback.
+    - During this period, the city has provided a [survey link](https://survey123.arcgis.com/share/?open=web&embed=fullScreen&id=c7d5e07c54684a649db3aefa728661b9) for community members to use to give feedback.
 
-# Contractor Expectations
+## Our Analysis
+In our opinion, this is a great plan for our community. Here are some things we like about it
+- Class IV bike path on Tapo St.
+- Class IV along Los Angeles Ave. between First St. and Erringer Rd
+- Class IV along Los Angeles Ave. between Tapo St. and Sterns St.
+- The extension of the Arroyo Simi Bike Path north from its branch between Sycamore Dr. and Sequoia Ave.
 
-According to the RFP, the chosen contractor must adhere to the following guidelines.
-- Host 3 community workshops.
-- Create a website with a feedback form for residents.
-- Must visit 10 community events throughout the year.
+These improvements align with the recommendations that we made in our post [last year][2] and we are very happy to see them. However, we didn't see any mention of specific design standards for things like intersections. Hopefully they are included in the full Bike Plan document.
 
-The chosen contractor must also present the following upon completion of their Bike Plan.
-- Create an implementation strategy with steps to implement their plan goals.
-- Create a proposed timeline and cost estimates for implementation.
-- Identify sources of funding for construction.
-- Mode shift estimates / maps of proposed facilities.
+![Draft Plan With Key](/assets/draft-simi-bike-plan-with-key.png)
 
-We will be following this development closely. If you are interested in getting updates on the plan as it progresses, sign up for our mailing list at the bottom of the page, or check back on this page every few weeks.
-
-We look forward to working with the city and the selected contractor to ensure we have a plan that will serve our population for the next decade and encourage people to reduce their VMT when making local trips.
-
-If you have any recommendations or tips, please reach out to us on [mastodon](https://mastodon.social/@movevc) or [twitter](https://twitter.com/move_vc). 
-
+Overall, this is a great expansion to the 2008 plan. Please leave your comments supporting the draft and suggesting anything else you would like to see. [Draft Plan Feedback Link](https://survey123.arcgis.com/share/?open=web&embed=fullScreen&id=c7d5e07c54684a649db3aefa728661b9)
 
 [1]: https://www.simivalley.org/home/showdocument?id=328
 [2]: {% post_url 2024-02-14-alamo-tapo-improvements %}
