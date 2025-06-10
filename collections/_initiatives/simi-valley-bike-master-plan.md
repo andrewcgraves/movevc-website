@@ -2,7 +2,7 @@
 title:  "Updates to the Simi Valley Bicycle Master Plan"
 layout: initiative
 date: "2024-03-03 00:00:01"
-last_updated: "2025-09-06 22:10:00"
+last_updated: "2025-06-09 22:10:00"
 image: "/front-page/arroyo-simi.jpg"
 ---
 
